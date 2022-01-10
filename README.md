@@ -15,6 +15,8 @@ npm run serve
 ```
 npm run build
 ```
-
+```
+http://www.mediafire.com/file/66teljx0xjvsa2r/w3schools_Offline_Version_2020.rar/file
+```
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
