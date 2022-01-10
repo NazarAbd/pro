@@ -1,4 +1,5 @@
 # pro
+## this is my first pure vuejs app ever.
 
 ## Project setup
 ```
